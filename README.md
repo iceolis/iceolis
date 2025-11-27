@@ -308,7 +308,7 @@ def documentation_protocol(layer):
 <div align="center">
 
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Rahulnetlord)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RahulNetLord)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VvhN_Txp34k)
 
 **Surface Web:** You're looking at it  
 **Everything Else:** If you know, you know
