@@ -166,15 +166,26 @@ The kind that operates across ALL layers simultaneously.
 
 ## 🛠️ Tech Arsenal
 
+🛠️ Tech Arsenal
 <div align="center">
-
-### 🔷 Surface Web (Public)
-
-### 🔴 Deep Web (Selective)
-
-### 🟣 Dark Web (Architectural)
-
-
+🔷 Surface Web (Public)
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🔴 Deep Web (Selective)
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🟣 Dark Web (Architectural)
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
 
 ---
