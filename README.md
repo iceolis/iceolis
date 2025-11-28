@@ -184,7 +184,7 @@ The kind that operates across ALL layers simultaneously.
 ### 🟣 Dark Web (Architectural)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Onion](https://img.shields.io/badge/Onion_Protocol-8B0000?style=for-the-badge)
-![Journalist](https://img.shields.io/badge/Journalist_Tools-2C3E50?style=for-the-badge&logo=write.as&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring_Tools-FF6B6B?style=for-the-badge&logo=grafana&logoColor=white)
 ![Free Speech](https://img.shields.io/badge/Free_Speech-FFD700?style=for-the-badge&logo=gnu-social&logoColor=black)
 ![Anonymous](https://img.shields.io/badge/Anonymous_Ops-000000?style=for-the-badge)
 
