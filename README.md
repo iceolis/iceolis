@@ -3,7 +3,7 @@
   <br>
   <a href="https://www.youtube.com/@iceolis"><img src="assets/btn-youtube.svg" height="44" alt="YouTube"></a>
   <a href="https://x.com/iceolis27"><img src="assets/btn-x.svg" height="44" alt="X"></a>
-  <!-- NEWSLETTER: replace the # below with your newsletter link when ready -->
+  <!-- NEWSLETTER: https://rahuls-terminal-letter.lovable.app/ -->
   <a href="#"><img src="assets/btn-newsletter.svg" height="44" alt="Newsletter"></a>
 </div>
 
